@@ -189,5 +189,5 @@ div.box:hover.active .title {
   display: flex;
 }
 .meta{
-  display: flex;
+  display: stretch;
 }

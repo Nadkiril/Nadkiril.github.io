@@ -4,7 +4,7 @@ const imagesData = [
     {photo: 'https://cdn.pixabay.com/photo/2015/07/01/10/55/honeycomb-827476_960_720.jpg', title: 'Lép', description: 'A méhek ezen fejlődnek. Fejlődés szakaszai: pete/ álca (képen)/ báb, ezt egy szóval fiasításnak nevezik. Dajkaméhek gondozzák őket. Egy másik lépen mézet, virágport tárolnak.'},
     {photo: 'https://cdn.pixabay.com/photo/2014/05/02/09/45/honey-bees-335906_960_720.jpg', title: 'Kikel a méh ', description: 'Petelerakás után az anya 16, a munkás 21, a here 24 nap alatt fejlődik ki.'},
     {photo: 'https://cdn.pixabay.com/photo/2014/06/09/03/27/hiking-bees-365213_960_720.jpg', title: 'Raj', description: 'A legjobb családban is előfordul a rajzás. Több oka lehet. Ha ilyet látunk méhészt kell hívni! Ne próbáljuk befogni őket! Tilos őket cukrosvizzel itatni! Nem igényelnek ilyenkor semmit, magukkal vannak elfoglalva nem támadnak, ha nem bolygatjuk őket, de szólni kell méhésznek, mert az ellátatlan rajok betegséget terjeszthetnek, melyek megfertőzhetik a gondozott családokat is!'},
-     {photo: 'https://cdn.pixabay.com/photo/2014/05/02/12/49/the-hive-335984_960_720.jpg', title: 'Darazsak!', description: 'Nem összetévesztendők a méhekkel! Ezek többször tudnak csípni akkor sem pusztulnak el, ellentétben a méhekkel, ők fullánkkal szúrnak egyszer és elhullanak. A darazsak tudnak járni a vizen, a méhek belefulladnak. A darazsak a méhek ellenségei, lopják a mézet.'},
+     {photo: 'https://cdn.pixabay.com/photo/2014/05/02/12/49/the-hive-335984_960_720.jpg', title: 'Darazsak!', description: 'Nem összetévesztendők a méhekkel! Annyi a közös, hogy mindkettő szúr és nem csíp. Darazsak többször tudnak szúrni akkor sem pusztulnak el, ellentétben a méhekkel, ők csak 1x a fullánkjuk kiszakad és elhullanak.'},
     {photo: 'https://cdn.pixabay.com/photo/2020/04/04/05/48/bees-5000948_960_720.jpg', title: 'Folyadék', description: 'A méhek is megszomjazhatnak. Tisztavizet isznak! Itatásuk leginkább a méhész feladata.'},
     {photo: 'https://cdn.pixabay.com/photo/2018/07/13/13/35/bee-3535799_960_720.jpg', title: 'Itató', description: 'Az itatóba kis szigetecskéket kell helyezni, hogy a méhek megtudjanak kapaszkodni rajta, mert különben fenn áll a veszélye, hogy belefulladhatnak.'},
     {photo: 'https://cdn.pixabay.com/photo/2017/04/11/16/58/flower-2222228_960_720.jpg', title: 'Virágzás', description: 'Bármilyen virágzásban lévő növényt TILOS vegyszerrel permetezni!'},
@@ -15,7 +15,7 @@ const imagesData = [
     {photo: 'https://cdn.pixabay.com/photo/2014/05/23/18/15/honey-352205_960_720.jpg', title: 'Méz', description: 'Pörgetés után, fáradságos munka eredménye.'},
     {photo: 'https://cdn.pixabay.com/photo/2015/06/09/11/48/beekeeping-803495_960_720.jpg', title: 'Méhész', description: 'Ebbe a különös ruhába lévő ember a méhész. Ő látja el a méheket, hogy ne legyen gondjuk és bajuk.'},
     {photo: 'https://cdn.pixabay.com/photo/2020/02/20/08/24/bird-4864225_960_720.jpg', title: 'Gyurgyalagfélék', description: 'Ezek a kis banditák a méhészetek legfőbb kártevői, ellenségei, egyszerűen megeszi a méheket. Védett madarak!'},
-    {photo: 'https://cdn.pixabay.com/photo/2018/04/14/09/21/pond-3318590_960_720.jpg', title: 'Tavirózsa', description: 'is szereti a méheket és fordítva.'}
+    {photo: 'https://cdn.pixabay.com/photo/2018/04/14/09/21/pond-3318590_960_720.jpg', title: 'Tavirózsa', description: 'is szereti a méheket és fordítva. 2021. 08.'}
 ];
 
 const maxImgIndex = imagesData.length - 1;
